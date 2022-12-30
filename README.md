@@ -1,5 +1,5 @@
 # Notto - Simple Note Taking App
- Note taking but a downgrade~
+ Note taking but too simple~
 
 This is a simple note taking app with minimal features, created for fun.
 
