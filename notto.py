@@ -65,9 +65,8 @@ frame.pack()
 # window.geometry("300x380")
 window.config(bg="white")
 
-# icon
-# icon = PhotoImage(file='C:\Users\surve\OneDrive\Documents\Code\Python\sideProjects\Notto\icon.png')
-# window.iconphoto(True,icon)
+icon = PhotoImage(file='icon.png')
+window.iconphoto(True,icon)
 
 window.title("Notto")
 
