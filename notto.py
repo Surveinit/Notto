@@ -66,12 +66,12 @@ frame.pack()
 window.config(bg="white")
 
 # icon
-# icon = PhotoImage(file='/home/surveyamete/Code/Python/sideProjects/Notto/icon.png')
+# icon = PhotoImage(file='C:\Users\surve\OneDrive\Documents\Code\Python\sideProjects\Notto\icon.png')
 # window.iconphoto(True,icon)
 
 window.title("Notto")
 
-textarea = Text(frame, font=("impact",18),
+textarea = Text(frame, font=("arial",18),
                 width=20, height=10,
                 padx=8,pady=8, bg="#ffffbc" )
 textarea.pack()
